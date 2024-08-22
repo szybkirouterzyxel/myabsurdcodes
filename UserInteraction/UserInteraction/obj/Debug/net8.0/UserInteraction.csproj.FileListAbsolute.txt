@@ -1,0 +1,14 @@
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\bin\Debug\net8.0\UserInteraction.exe
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\bin\Debug\net8.0\UserInteraction.deps.json
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\bin\Debug\net8.0\UserInteraction.runtimeconfig.json
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\bin\Debug\net8.0\UserInteraction.dll
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\bin\Debug\net8.0\UserInteraction.pdb
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.AssemblyInfoInputs.cache
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.AssemblyInfo.cs
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.csproj.CoreCompileInputs.cache
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.dll
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\refint\UserInteraction.dll
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.pdb
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\UserInteraction.genruntimeconfig.cache
+C:\Users\szybk\source\repos\UserInteraction\UserInteraction\obj\Debug\net8.0\ref\UserInteraction.dll
