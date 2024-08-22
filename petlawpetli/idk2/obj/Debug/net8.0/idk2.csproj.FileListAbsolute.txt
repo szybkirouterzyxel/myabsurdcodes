@@ -1,0 +1,14 @@
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.AssemblyInfoInputs.cache
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.AssemblyInfo.cs
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.csproj.CoreCompileInputs.cache
+C:\Users\szybk\source\repos\idk2\idk2\bin\Debug\net8.0\idk2.exe
+C:\Users\szybk\source\repos\idk2\idk2\bin\Debug\net8.0\idk2.deps.json
+C:\Users\szybk\source\repos\idk2\idk2\bin\Debug\net8.0\idk2.runtimeconfig.json
+C:\Users\szybk\source\repos\idk2\idk2\bin\Debug\net8.0\idk2.dll
+C:\Users\szybk\source\repos\idk2\idk2\bin\Debug\net8.0\idk2.pdb
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.dll
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\refint\idk2.dll
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.pdb
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\idk2.genruntimeconfig.cache
+C:\Users\szybk\source\repos\idk2\idk2\obj\Debug\net8.0\ref\idk2.dll
